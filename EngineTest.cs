@@ -4,6 +4,6 @@ public static class EngineTest
 {
 	public static void Log()
 	{
-		Console.WriteLine("Engine Connected!");
+		Console.WriteLine("FluxEngine connected!");
 	}
 }
