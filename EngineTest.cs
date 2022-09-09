@@ -1,6 +1,6 @@
 ﻿namespace FluxEngine;
 
-//Test1
+//Test2
 public static class EngineTest
 {
 	public static void Log()
