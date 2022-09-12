@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    A game engine build on top of <a href="[https://github.com/github_username/repo_name](https://github.com/raysan5/raylib)">Raylib</a>.
+    A game engine build on top of <a href="https://github.com/raysan5/raylib">Raylib</a>.
     <br/>
     Not intended for use yet, under early development.
     <br/>
