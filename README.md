@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SanyokDev/Pine2D-Engine">
-    <img src="Readme-Assets/Pine2D-Logo" alt="Logo" width="80" height="80">
+    <img src="Assets/logo-outline.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
