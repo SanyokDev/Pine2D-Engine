@@ -27,15 +27,10 @@ Throughout the project, I'll try and showcase each major feature by making small
 - [ ] Feature 2
 - [ ] Feature 3
 
-<!-- Contact -->
-## Contact
-
-Alessandro Nikolaev - [Email](mailto:alessandronikolaev.business@gmail.com) - [@SanyokDev](https://twitter.com/SanyokDev)
-
 <!-- Acknowledgments  -->
-## Acknowledgments
+## Acknowledgments :
 - [Raylib](https://github.com/raysan5/raylib) for creating an amazing library for game development.
 
-<!-- Licence -->
-## License :
-Blank
+<!-- Contact -->
+## Contact :
+Alessandro N. - [Email](mailto:alessandronikolaev.business@gmail.com) | [@SanyokDev](https://twitter.com/SanyokDev)
