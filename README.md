@@ -1,7 +1,7 @@
 <!-- Logo & description -->
 <div align="center">
   <a href="https://github.com/SanyokDev/Pine2D-Engine">
-    <img src="Assets/logo-outline.png" alt="Pine2D game engine logo" width="276" height="75">
+    <img src="Assets/logo.png" alt="Pine2D game engine logo" width="276" height="75">
   </a>
 
   <p align="center">
