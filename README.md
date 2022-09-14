@@ -22,12 +22,23 @@ The plan is to create a simple but robust engine I can use during game jams wher
 Throughout the project, I'll try and showcase each major feature by making smaller tools/games using them.
 
 <!-- Roadmap -->
-## Main features to come :
-- [ ] 0. Initialization & Events
-- [ ] 1. Entity Component System
-- [ ] 2. Scenes & Layers
-- [ ] 3. Randomizer
-- [ ] 4. Resource Manager
+## Roadmap :
+### Version 0.1 : Core
+- [ ] 0. Initialization & Events]]
+- [ ] 1. Entity Component System]]
+- [ ] 2. Scenes & Layers]]
+- [ ] 3. Randomizer]]
+- [ ] 4. Resource Manager]]
+
+### Version 0.2 : Graphics
+- [ ] 0. UI & Console
+- [ ] 1. Lighting
+- [ ] 2. Particle system
+
+### Version 0.3 : Math
+- [ ] 0. PineMath
+- [ ] 1. Procedural Generation
+- [ ] 2. Physics
 
 <!-- Acknowledgments  -->
 ## Acknowledgments :
