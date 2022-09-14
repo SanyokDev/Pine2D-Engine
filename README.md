@@ -24,11 +24,11 @@ Throughout the project, I'll try and showcase each major feature by making small
 <!-- Roadmap -->
 ## Roadmap :
 ### Version 0.1 : Core
-- [ ] 0. Initialization & Events]]
-- [ ] 1. Entity Component System]]
-- [ ] 2. Scenes & Layers]]
-- [ ] 3. Randomizer]]
-- [ ] 4. Resource Manager]]
+- [ ] 0. Initialization & Events
+- [ ] 1. Entity Component System
+- [ ] 2. Scenes & Layers
+- [ ] 3. Randomizer
+- [ ] 4. Resource Manager
 
 ### Version 0.2 : Graphics
 - [ ] 0. UI & Console
