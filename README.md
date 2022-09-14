@@ -23,9 +23,11 @@ Throughout the project, I'll try and showcase each major feature by making small
 
 <!-- Roadmap -->
 ## Main features to come :
-- [X] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [ ] 0. Initialization & Events
+- [ ] 1. Entity Component System
+- [ ] 2. Scenes & Layers
+- [ ] 3. Randomizer
+- [ ] 4. Resource Manager
 
 <!-- Acknowledgments  -->
 ## Acknowledgments :
