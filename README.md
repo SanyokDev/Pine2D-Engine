@@ -24,7 +24,7 @@ Throughout the project, I'll try and showcase each major feature by making small
 <!-- Roadmap -->
 ## Roadmap :
 ### Version 0.1 (Core)
-- [ ] 0. Initialization & Events
+- [ ] 0. Entry Point & Events
 - [ ] 1. Entity Component System
 - [ ] 2. Scenes & Layers
 - [ ] 3. Randomizer
