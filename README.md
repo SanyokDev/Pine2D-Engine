@@ -26,7 +26,7 @@ Throughout the project, I'll try and showcase each major feature by making small
 Here's a general roadmap of some of the features I'll implement. For the time being, I'll focus on horizontal development to get a minimum viable product working where detailed work can begin afterwards.
 
 ### Version 0.1 (Core)
-- [ ] 0. Entry Point & Events
+- [X] 0. Entry Point & Events
 - [ ] 1. Entity Component System
 - [ ] 2. Scenes & Layers
 - [ ] 3. Randomizer
