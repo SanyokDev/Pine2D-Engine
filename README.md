@@ -44,7 +44,8 @@ Here's a general roadmap of some of the features I'll implement. For the time be
 
 <!-- Acknowledgments  -->
 ## Acknowledgments :
-- [Raylib](https://github.com/raysan5/raylib) for creating an amazing library for game development.
+- [Raylib](https://github.com/raysan5/raylib) by (Raysan5) : Creating an amazing library for game development.
+  - [Raylib-cs](https://github.com/ChrisDill/Raylib-cs) by (ChrisDill) : Creating the C# binding of Raylib.
 
 <!-- Contact -->
 ## Contact :
