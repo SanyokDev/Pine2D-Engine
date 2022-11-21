@@ -1,4 +1,4 @@
-﻿using System.Numerics;
+﻿using System.Diagnostics;
 using Raylib_cs;
 
 namespace Pine2D.Core;
@@ -6,7 +6,7 @@ namespace Pine2D.Core;
 public class PineApp
 {
 	private readonly WindowSettings _windowSettings;
-	
+
 	protected PineApp(WindowSettings windowSettings)
 	{
 		_windowSettings = windowSettings;
@@ -15,8 +15,14 @@ public class PineApp
 	public void Run()
 	{
 		// Initialization
+		var timer = new Stopwatch();
+		timer.Start();
+		
 		Initialize();
 		
+		timer.Stop();
+		Console.WriteLine("Time taken: " + timer.Elapsed.ToString(@"m\:ss\.fff")); 
+
 		while (!Raylib.WindowShouldClose())
 		{
 			// Update
@@ -29,13 +35,12 @@ public class PineApp
 			Raylib.EndDrawing();
 			// ----
 		}
-        
+		
 		// De-Initialization
 		Raylib.CloseWindow();
 	}
-	
+
 	#region Events
-	
 	protected virtual void Initialize()
 	{
 		Raylib.InitWindow(_windowSettings.ScreenWidth, _windowSettings.ScreenHeight, _windowSettings.Title);
@@ -43,13 +48,11 @@ public class PineApp
 	}
 	protected virtual void Update()
 	{
-		
+		//TBD
 	}
 	protected virtual void Draw()
 	{
 		Raylib.ClearBackground(Color.WHITE);
-		Raylib.DrawText(Raylib.GetFPS().ToString(), 16, 16, 20, Color.BLACK);
 	}
-
 	#endregion
 }
